@@ -1,6 +1,6 @@
 # swissgrid
 
-Read swissgrid excel files into a pandas timeseries
+Read swissgrid power grid statistics files into pandas timeseries
 
 ## usage
 
